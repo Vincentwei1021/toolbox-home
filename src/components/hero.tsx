@@ -7,7 +7,7 @@ export function Hero() {
         variant="secondary"
         className="animate-fade-up bg-brand-muted text-brand mb-6 border-transparent px-4 py-1.5 text-sm font-medium"
       >
-        14+ Free Tools — No Sign-up Required
+        12+ Free Tools — No Sign-up Required
       </Badge>
       <h1 className="animate-fade-up animation-delay-100 text-4xl font-bold tracking-tight sm:text-5xl lg:text-6xl">
         Your AI-Powered

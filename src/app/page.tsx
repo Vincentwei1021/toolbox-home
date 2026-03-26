@@ -23,7 +23,7 @@ export default function Home() {
             name: "Toolbox Lite",
             url: "https://toolboxlite.com",
             description:
-              "14+ free online tools powered by AI. QR codes, email validation, translation, PDF extraction, screenshots, and more.",
+              "12+ free online tools powered by AI. QR codes, email validation, translation, PDF extraction, screenshots, and more.",
           }),
         }}
       />

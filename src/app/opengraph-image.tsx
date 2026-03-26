@@ -26,10 +26,10 @@ export default function Image() {
           <span>Toolbox Lite</span>
         </div>
         <div style={{ fontSize: 28, color: "#94a3b8", marginTop: 16 }}>
-          14+ Free AI-Powered Online Tools
+          12+ Free AI-Powered Online Tools
         </div>
         <div style={{ display: "flex", gap: 12, marginTop: 32, flexWrap: "wrap", justifyContent: "center", maxWidth: 800 }}>
-          {["🔲 QR Forge", "✉️ MailCheck", "📄 SummarizeIt", "📸 ScreenSnap", "📑 PDFPull", "🌍 TranslateNow", "🌐 IP Geek"].map((t) => (
+          {["🔲 QR Forge", "✉️ MailCheck", "📄 SummarizeIt", "📸 ScreenSnap", "📑 PDFPull", "🌐 IP Geek", "🔤 JSON Pretty"].map((t) => (
             <div
               key={t}
               style={{

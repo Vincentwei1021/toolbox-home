@@ -12,7 +12,7 @@ const inter = Inter({
 export const metadata: Metadata = {
   title: "Toolbox Lite — Free AI-Powered Online Tools",
   description:
-    "14+ free online tools powered by AI. QR codes, email validation, translation, PDF extraction, screenshots, and more. No sign-up required.",
+    "12+ free online tools powered by AI. QR codes, email validation, translation, PDF extraction, screenshots, and more. No sign-up required.",
   keywords: [
     "free online tools",
     "AI tools",
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Toolbox Lite — Free AI-Powered Online Tools",
     description:
-      "14+ free online tools powered by AI. QR codes, email validation, translation, PDF extraction, screenshots, and more.",
+      "12+ free online tools powered by AI. QR codes, email validation, translation, PDF extraction, screenshots, and more.",
     url: "https://toolboxlite.com",
     siteName: "Toolbox Lite",
     type: "website",
@@ -42,7 +42,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Toolbox Lite — Free AI-Powered Online Tools",
     description:
-      "14+ free online tools powered by AI. No sign-up required.",
+      "12+ free online tools powered by AI. No sign-up required.",
   },
   alternates: {
     canonical: "https://toolboxlite.com",

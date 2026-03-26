@@ -30,12 +30,6 @@ export const tools = [
     desc: "Extract text from PDF documents",
   },
   {
-    name: "TranslateNow",
-    emoji: "\uD83C\uDF0D",
-    url: "https://translate.toolboxlite.com",
-    desc: "AI-powered multi-language translation",
-  },
-  {
     name: "IP Geek",
     emoji: "\uD83C\uDF10",
     url: "https://ip.toolboxlite.com",
@@ -60,12 +54,6 @@ export const tools = [
     desc: "Convert between color formats",
   },
   {
-    name: "Price Widget",
-    emoji: "\uD83D\uDCB0",
-    url: "https://price.toolboxlite.com",
-    desc: "Quick price calculations",
-  },
-  {
     name: "Daily Oracle",
     emoji: "\uD83D\uDD2E",
     url: "https://fortune.toolboxlite.com",
@@ -74,7 +62,7 @@ export const tools = [
   {
     name: "AI Daily",
     emoji: "\uD83D\uDCF0",
-    url: "https://ai-daily-eight-mu.vercel.app",
+    url: "https://daily.toolboxlite.com",
     desc: "Daily AI industry news digest",
   },
   {
