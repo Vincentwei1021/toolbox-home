@@ -12,9 +12,9 @@ export function Hero() {
 
         {/* Headline */}
         <h1 className="animate-rise delay-1 max-w-2xl font-display text-4xl leading-[1.1] tracking-tight sm:text-5xl md:text-6xl lg:text-7xl">
-          Your everyday
+          Your AI-Powered
           <br />
-          <span className="text-brand">digital workshop</span>
+          <span className="text-brand">Online Toolbox</span>
         </h1>
 
         {/* Subtext */}
