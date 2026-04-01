@@ -38,7 +38,7 @@ export function ToolsGrid() {
         </span>
       </div>
 
-      <div ref={gridRef} className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div ref={gridRef} className="grid auto-rows-fr grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
         {tools.map((tool, i) => (
           <a
             key={tool.name}
@@ -50,7 +50,7 @@ export function ToolsGrid() {
             }`}
             style={visible ? { animationDelay: `${i * 50}ms` } : undefined}
           >
-            <div className="flex items-start gap-4">
+            <div className="flex h-full items-start gap-4">
               <span className="tool-emoji inline-block text-3xl" aria-hidden="true">
                 {tool.emoji}
               </span>
